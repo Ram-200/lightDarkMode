@@ -1,0 +1,36 @@
+.bg-container {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  padding: 24px;
+}
+.heading {
+  font-weight: bold;
+  font-family: bree serif;
+  font-size: 16px;
+}
+.heading-light-mode {
+  color: #000000;
+}
+.heading-dark-mode {
+  color: #fff;
+}
+.btn-button {
+  font-size: 16px;
+  border: none;
+  padding: 16px;
+  border-radius: 8px;
+}
+.button-light-mode{
+    background-color: #fff;
+}
+.button-dark-mode{
+background-color: yellow;}
+.light-mode {
+  background-color: #fff;
+}
+.dark-mode {
+  background-color: #000000;
+}
